@@ -1,4 +1,5 @@
-/frontend/bank/node_modules
-/frontend/bank/.env
-/frontend/bank/package-lock
+/frontend/banking/node_modules
+/frontend/banking/.env
+/frontend/banking/package-lock
+/frontend/bank
 /backend/node_modules
